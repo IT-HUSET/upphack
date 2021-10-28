@@ -6,11 +6,12 @@
   h1 {
    color: #ff0000;
  }
+  
  table {
-   border: none;
    border-collapse: collapse;
    border-spacing: 30px;
  }
+  
  th, td {
   padding: 15px;
 }
@@ -22,5 +23,6 @@
 }
 
 #sponsor-table {
+   background-color: yellow;
    margin: 0 auto;
 }
