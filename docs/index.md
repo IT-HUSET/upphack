@@ -1,4 +1,5 @@
 
+## tl; dr
 
 - När: 11.12.2021 08:00 -> Open ended
 - Var: Dragarbrunnsgatan 50 (Svavagallerian) @ Caspeco
@@ -11,5 +12,13 @@
 
 
 
-## Sponsorer
-<img src="assets/images/IT_HUSET_logo.jpg" alt="drawing" width="200"/> <img src="assets/images/kommun_logo.png" alt="drawing" width="200"/>
+## 
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="assets/images/IT_HUSET_logo.jpg" alt="drawing" width="200"/></td>
+      <td><img src="assets/images/Caspeco-logotype.svg" alt="drawing" width="200"/></td>
+      <td><img src="assets/images/kommun_logo.png" alt="drawing" width="200"/></td>
+    </tr>
+  </table>
+ </p>
