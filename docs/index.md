@@ -13,7 +13,7 @@
 
 
 
-<hr>
+***
 <div id="footer">
   <table id="sponsor-table">
     <tr>
