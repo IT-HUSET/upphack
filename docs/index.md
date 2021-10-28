@@ -11,5 +11,5 @@
 
 
 
-
-![Uppsala Kommun](./assets/images/logo.png)
+## Sponsorer
+<img src="assets/images/IT_HUSET_logo.jpg" alt="drawing" width="200"/> <img src="assets/images/kommun_logo.png" alt="drawing" width="200"/>
