@@ -1,4 +1,4 @@
-# Upphack 2021
+
 
 ## tl; dr
 
