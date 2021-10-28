@@ -1,3 +1,4 @@
+# intro
 
 ## tl; dr
 
@@ -13,12 +14,10 @@
 
 
 ## 
-<p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td><img src="assets/images/IT_HUSET_logo.jpg" alt="drawing" width="200"/></td>
       <td><img src="assets/images/Caspeco-logotype.svg" alt="drawing" width="200"/></td>
       <td><img src="assets/images/kommun_logo.png" alt="drawing" width="200"/></td>
     </tr>
   </table>
- </p>
