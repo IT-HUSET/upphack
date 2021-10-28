@@ -13,7 +13,7 @@
 
 
 
-## 
+<hr>
   <table align="center">
     <tr>
       <td><img src="assets/images/IT_HUSET_logo.jpg" alt="drawing" width="200"/></td>
