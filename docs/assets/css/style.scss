@@ -3,15 +3,7 @@
 
 @import "{{ site.theme }}";
 .main-content {
-  h1 {
-   color: #ff0000;
- }
-}
-  h1 {
-   color:red;
- }
-  
- table {
+  table {
    border-collapse: collapse;
    border-spacing: 30px;
  }
@@ -30,3 +22,6 @@
    background-color: yellow;
    margin: 0 auto;
 }
+}
+  
+ 
