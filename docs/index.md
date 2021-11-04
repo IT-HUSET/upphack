@@ -37,8 +37,4 @@ Läs gärna mer om [SimpliCITY här](https://www.simplicity-project.eu/projectde
 
 Är du/ni intresserade av att vara med eller har andra frågor? Hör gärna av dig via formuläret nedanför så ser vi tillsammans till att göra Uppsalas IT-liv ännu lite roligare!
 
-
-
-
-
-###
+<hr>
