@@ -1,5 +1,4 @@
 
-{% raw %}{% seo %}{% endraw %} 
 
 ## Hack för ett hållbart Uppsala
 
