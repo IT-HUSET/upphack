@@ -3,3 +3,8 @@ title: Upphack [2021]
 description: Start page for Upphack 2021 event
 theme: jekyll-theme-cayman
 locale: "sv_SE"
+navbar-links:
+  Sponsorer:
+    - IT-HUSET: "https://www.it-huset.se"
+    - Caspeco: "https://www.caspeco.se"
+    - Uppsala Kommun: "https://www.uppsala.se"
