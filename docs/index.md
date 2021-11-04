@@ -27,7 +27,7 @@ Varje Hackathon har såklart ett tema eller en uppgift och så även Upphack 202
 Alla deltagare kommer att få en mer detaljerad beskrivning i god tid innan eventet.
 Läs gärna mer om [SimpliCITY här](https://www.simplicity-project.eu/projectdescription).
 
-Är du/ni intresserade av att vara med eller har andra frågor? Hör gärna av dig till [IT-HUSET](mailto:svante.kumlien@it-huset.se) så ser vi tillsammans till att göra Uppsalas IT-liv ännu lite roligare!
+Är du/ni intresserade av att vara med eller har andra frågor? Hör gärna av dig via formuläret nedanför så ser vi tillsammans till att göra Uppsalas IT-liv ännu lite roligare!
 
 
 
