@@ -25,6 +25,24 @@
 
   <main id="content" class="main-content" role="main">
     {{ content }}
+    
+    <div id="contact">
+      <h2>Kontakta oss!</h2>
+      <div id="contact-form">
+        <form action="https://formspree.io/f/mbjqvada" method="POST">
+          <label>
+            Din email:
+            <input type="email" name="_replyto">
+          </label>
+          <label>
+            Meddelande till oss:
+            <textarea name="message"></textarea>
+          </label>
+          <!-- your other form fields go here -->
+          <button type="submit">Skicka</button>
+        </form>
+      </div>
+    </div>
 
     <footer class="site-footer">
       <span class="site-footer-credits">
