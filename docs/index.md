@@ -4,7 +4,7 @@
 
 
 ### Sammanfattning
-- När: Lördag 11.12.2021 08:00 -> Open ended
+- När: Lördag 11.12.2021 08:30 -> Open ended
 - Var: caspeco@Dragarbrunnsgatan 50 (Svavagallerian)
 - Vad: Hacka för ett hållbarare Uppsala!
 - Varför: 
@@ -16,7 +16,7 @@
 ### Detaljerna
 
 #### Varför gör vi det här?
-Ett Hackathon för att stärka Uppsalas IT-Nätverk, göra något bra för miljön och samtidigt ha en riktigt trevlig lördag med gamla och nya vänner, det är tanken bakom Upphack 2021. Lördag den 11:e december kör vi igång från klockan 08:00 med en rejäl utvecklarfrukost i Caspecos lokaler i Svavagallerian.  
+Ett Hackathon för att stärka Uppsalas IT-Nätverk, göra något bra för miljön och samtidigt ha en riktigt trevlig lördag med gamla och nya vänner, det är tanken bakom Upphack 2021. Lördag den 11:e december kör vi igång från klockan 08:30 med en rejäl utvecklarfrukost i Caspecos lokaler i Svavagallerian.  
  
 #### Teamen
 Ett av syftena är att stärka banden mellan näringslivet och it-studenter, lagen kommer därför att bestå av hälften studenter och hälften av utvecklare som redan är ute i arbetslivet. Att kunna attrahera nya och behålla befintliga talanger i Uppsala är såklart ett måste för att kunna göra Uppsala till en ännu roligare IT-stad! På grund av rådande omständigheter är deltagarantalet den här gången begränstat till 20 stycken uppdelat på 4-5 lag. För att rekrytera studenter till teamen får vi hjälp av Uppsalas studentdrivna konsultföretag [Consor](https://www.consorconsulting.se/). Det finns inget krav på att anmäla hela team, enskilda anmälningar är mer än välkomna.
