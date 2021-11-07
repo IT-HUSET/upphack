@@ -1,9 +1,9 @@
 
 
-## Hack för ett hållbart Uppsala
+## UPPHACK 2021
 
 
-### Helt kort
+### Sammanfattning
 - När: Lördag 11.12.2021 08:00 -> Open ended
 - Var: caspeco@Dragarbrunnsgatan 50 (Svavagallerian)
 - Vad: Hacka för ett hållbarare Uppsala!
