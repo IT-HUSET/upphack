@@ -21,17 +21,20 @@ Ett Hackathon för att stärka Uppsalas IT-Nätverk, göra något bra för milj�
 Ett av syftena är att stärka banden mellan näringslivet och it-studenter, lagen kommer därför att bestå av hälften studenter och hälften av utvecklare som redan är ute i arbetslivet. Att kunna attrahera nya och behålla befintliga talanger i Uppsala är såklart ett måste för att kunna göra Uppsala till en ännu roligare IT-stad! På grund av rådande omständigheter är deltagarantalet den här gången begränstat till 20 stycken uppdelat på 4-5 lag.
 
 #### Uppgift
-Varje Hackathon har såklart ett tema eller en uppgift och så även Upphack 2021! Vi är barnsligt glada över att ha fått hjälp av Uppsala Kommun med en uppgift som är såväl brinnande aktuell som förankrad i ett verkligt behov. Bakrunden är att Uppsala är med i EU-projektet SimpliCITY vars syfte bl.a. är att skala upp och öka användningen av s.k. Hållbarhetstjänster. Uppgiften för teamen är att komma med lösningar som bidrar till att uppfylla det syftet. Det kan t.ex. vara
+Varje Hackathon har såklart ett tema eller en uppgift och så även Upphack 2021! Vi är barnsligt glada över att ha fått hjälp av Uppsala Kommun med en uppgift som är såväl brinnande aktuell som förankrad i ett verkligt behov. Bakrunden är att Uppsala är med i EU-projektet SimpliCITY vars syfte bl.a. är att skala upp och öka användningen av s.k. Hållbarhetstjänster. Uppgiften för teamen är att komma med lösningar/tjänster som bidrar till att uppfylla det syftet. Det kan t.ex. vara
 - Tjänster som underlättar återvinning
 - Tjänster som bidrar till folkhälsan t.ex. underlätta anvädningen av det nya cykelgaraget
 - Tjänster kopplade till integrations- och inkluderingsarbete av nyanlända och äldre
 - etc. etc. 
-Vi ser gärna att lösningen använder sig av molntjänster av något slag. Signa upp för testkonto i t.ex. [Azure](https://azure.microsoft.com/sv-se/free) så kan teamet  använda sig av alla tjänster som erbjuds där. 
+Vi ser gärna att lösningen är mobilanpassad och använder sig av molntjänster av något slag. Signa upp för testkonto i t.ex. [Azure](https://azure.microsoft.com/sv-se/free) så kan teamet använda sig av alla tjänster som erbjuds där. 
 
 Teamen kommer att kunna använda sig av API:er för SMS och telefoni, sponsrat av [46elks](https://46elks.se/), dokumentation av deras API:er finns [här](https://46elks.se/docs/send-sms).
 
 #### Förväntningar på deltagare
-Vi utgår från att våra deltagare går igång på att utveckla tillsammans med andra! Detaljer som språk, frontend/backend/fullstack och liknande finns det däremot inga begränsningar runt. Deltagarna förväntas ta med sig en egen dator med en installerad utvecklingsmiljö. För att få ut så mycket som möjligt av dagen tror vi att ett synk-snack inom teamet innan Hackathonet kommer att vara en framgångsfaktor!
+Vi utgår från att våra deltagare går igång på att utveckla tillsammans med andra! Detaljer som språk, frontend/backend/fullstack och liknande finns det däremot inga begränsningar runt. Deltagarna förväntas ta med sig en egen dator med en installerad utvecklingsmiljö (i de fall det behövs). För att få ut så mycket som möjligt av dagen tror vi att ett synk-snack inom teamet innan Hackathonet kommer att vara en framgångsfaktor! 
+
+#### Vinnaren
+Vinnande team kommer att utses av en jury med deltagare från IT-HUSET, Caspeco och Uppsala Kommun. 
 
 #### Vad händer härnäst?
 Alla deltagare kommer att få en mer detaljerad beskrivning i god tid innan eventet.
