@@ -29,7 +29,7 @@ Varje Hackathon har såklart ett tema eller en uppgift och så även Upphack 202
 - etc. etc. 
 Vi ser gärna att lösningen är mobilanpassad och använder sig av molntjänster av något slag. Signa upp för testkonto i t.ex. [Azure](https://azure.microsoft.com/sv-se/free) så kan teamet använda sig av alla tjänster som erbjuds där. 
 
-Teamen kommer att kunna använda sig av API:er för SMS och telefoni, sponsrat av [46elks](https://46elks.se/), dokumentation av deras API:er finns [här](https://46elks.se/docs/send-sms).
+Teamen kommer att kunna använda sig av API:er för SMS och telefoni, sponsrat av [46elks](https://46elks.se/), signa upp för [ett API-Konto här!](https://46elks.se/upphack2021)
 
 #### Förväntningar på deltagare
 Vi utgår från att våra deltagare går igång på att utveckla tillsammans med andra! Detaljer som språk, frontend/backend/fullstack och liknande finns det däremot inga begränsningar runt. Deltagarna förväntas ta med sig en egen dator med en installerad utvecklingsmiljö (i de fall det behövs). För att få ut så mycket som möjligt av dagen tror vi att ett synk-snack inom teamet innan Hackathonet kommer att vara en framgångsfaktor! 
