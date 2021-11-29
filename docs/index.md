@@ -27,6 +27,7 @@ Varje Hackathon har såklart ett tema eller en uppgift och så även Upphack 202
 - Tjänster som bidrar till folkhälsan t.ex. underlätta anvädningen av det nya cykelgaraget
 - Tjänster kopplade till integrations- och inkluderingsarbete av nyanlända och äldre
 - etc. etc. 
+Ett exempel på en tjänst som redan utvecklats inom ramen för projektet är [Cykla med Pelle](https://www.simplicity-project.eu/cykla-med-pelle-cycling-with-pelle/)
 Vi ser gärna att lösningen är mobilanpassad och använder sig av molntjänster av något slag. Signa upp för testkonto i t.ex. [Azure](https://azure.microsoft.com/sv-se/free) så kan teamet använda sig av alla tjänster som erbjuds där. 
 
 Teamen kommer att kunna använda sig av API:er för SMS och telefoni, sponsrat av [46elks](https://46elks.se/), signa upp för [ett API-Konto här!](https://46elks.se/upphack2021)
